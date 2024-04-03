@@ -1,6 +1,5 @@
 - Hi, I’m @Norillaz
 - I’m interested in exploring Linux, with a focus on automation and scripting.
-- I’m currently learning С++.
 - I’m looking to collaborate on open-source projects that aim to solve real-world problems.
 
 
