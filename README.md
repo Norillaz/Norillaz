@@ -1,7 +1,8 @@
-- Hi, I’m Anna
-- I’m interested in exploring Linux, with a focus on automation and scripting.
-- I’m looking to collaborate on open-source projects that aim to solve real-world problems.
+Hi, I’m Anna
 
+I'm passionate about data analysis and big data. I'm currently undergoing comprehensive training and internship programs to further develop my skills in data analysis.
+I'm excited to collaborate on projects that aim to solve real-world problems and make a meaningful impact. If you're working on a project that aligns with my interests and skills, I'd love to join forces and contribute to its success.
+Feel free to reach out to me
 
 
 <!---
